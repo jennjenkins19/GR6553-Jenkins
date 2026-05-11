@@ -1,1 +1,12 @@
-This file contains all the dropsonde location data from the two flights that were used for the rapid intensification event.  The first flight, 20210828I1, was taken on August 28th from 1955Z to 0413Z, and the fourth flight, 20210829I1, was taken on August 29th from 0738Z to 1604Z.  Dropsonde #10, D20210828_105043QC, was used for the surface map on August 28th.  On August 29th, Dropsonde #7, D20210829_092650QC, was used for the eye wall, and Dropsonde #23, D20210829_111821QC, was used for the eye of Hurricane Ida.  The fifth flight, 20210829H1, was also included in the data provided to make sure the event was captured on the tail end as well.  
+This file contains all the dropsonde location data from the two flights that were used for the rapid intensification event.  
+
+The **first flight**, 20210828I1, was taken on August 28th from 1955Z to 0413Z.
+
+Dropsonde #10, D20210828_105043QC, was used for the surface map on August 28th.  
+
+
+The **fourth flight**, 20210829I1, was taken on August 29th from 0738Z to 1604Z.  
+
+Dropsonde #7, D20210829_092650QC, was used for the eye wall, and Dropsonde #23, D20210829_111821QC, was used for the eye of Hurricane Ida.  
+
+The **fifth flight**, 20210829H1, was also included in the data provided to make sure the event was captured on the tail end as well.  
