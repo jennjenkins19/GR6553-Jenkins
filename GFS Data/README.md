@@ -1,1 +1,2 @@
 This file should contain all the GFS data for the surface maps from August 28th at 0000UTC to August 29th at 1800UTC with data generated every 600UTC.  However, the site won't allow the size of the files to be uploaded, so the link for the data is provided below:
+https://gdex.ucar.edu/datasets/d084001/dataaccess/
