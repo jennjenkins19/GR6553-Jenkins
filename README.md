@@ -1,2 +1,13 @@
 # GR6553-Jenkins
-The final meteorological project for GR6553
+The final project for GR6553 covers a weather event with accompanying code, presentation material, and graphics.
+
+**Project Overview**: The weather event that is described in this project is the rapid intensification (RI) of Hurricane Ida in August 2021.  Hurricane Ida experienced an RI event from 1200UTC on August 28th to 1200UTC on August 29th, which involved an increase in wind speeds of at least 30 knots (35mph) in less than 24 hours.  As shown in this project, there are several surface maps with wind barbs and wind maps to show the increase in wind speeds.  RADAR images were generated closer to landfall with an overlay of dropsonde locations to find the data closest to the eye of the hurricane to register the RI event.  Finally, the dropsonde data was used to generate Skew-T diagrams to showcase the change in wind speeds as well as various temperatures throughout the drops.
+
+**Surface Maps**: Surface maps were generated every 600 UTC using the Global Forecast System (GFS) data from 0000UTC on August 28th to 1800UTC on August 29th.  Each map contains the wind field data across the Gulf of America as well as the changes in geopotential height as the storm progresses through the area.  A wind barb overlay was added to the maps to show the changes in wind speed as it moved through the area.  An additional surface map if wind speeds was generated at 1200UTC on August 28th to give a basis for the dropsonde overlay data.  
+Link: https://gdex.ucar.edu/datasets/d084001/dataaccess/ 
+
+**RADAR Overview**: RADAR images were created from the data provided by the KLIX station at New Orleans, LA.  The New Orleans station was used due to the proximity of the station to landfall of Hurricane Ida at Port Fourchon, Louisiana.  The images and times chosen were based on the dropsonde time stamps that were used to generate Skew-T graphs.  
+Link https://tds-nexrad.scigw.unidata.ucar.edu/thredds/catalog/nexrad/level2/S3/catalog.html 
+
+**Dropsonde Overview**: There were five successful flights from August 28th to August 29th registered with NOAA.  Of those five flights, two flights were used to generate the Skew-T graphs to show rapid intensification from 1200 UTC August 28th to 1200 UTC on August 29th via the wind barbs on the sides of the graphs.  The flights used were 20210828I1 and 20210829I1.  Each dropsonde released on each flight was mapped by its final location onto the surface map (August 28th) or RADAR image (August 29th) as an overlay to show all the locations possible for data collection.  The dropsondes that had a final location close to the eye of the hurricane were used to generate Skew-T diagrams.  
+Link: https://www.aoml.noaa.gov/2021-hurricane-field-program-data/ 
